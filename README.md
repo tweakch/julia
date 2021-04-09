@@ -1,1 +1,1 @@
-# julia
+# oeis-julia
